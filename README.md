@@ -4,7 +4,7 @@
     <h3>Hi, there is Hasibullah Mohmand</h3>
   </div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/hasibullah-mohmand-5340b2132/" target="_blank">
+    <a href="https://www.linkedin.com/in/hasibullah-mohmand" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     <a href="https://www.instagram.com/hasibullah.mohmand/" target="_blank">
@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cs,python" />
   </a>
 </p>
