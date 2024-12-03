@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,cs,python,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,python,java" />
   </a>
 </p>
