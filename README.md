@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
   <div align=center>
-    <h3>Hi, there is Hasibullah Mohmand</h3>
+    <h3>Hi, there it's Hasibullah Mohmand</h3>
   </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/hasibullah-mohmand" target="_blank">
